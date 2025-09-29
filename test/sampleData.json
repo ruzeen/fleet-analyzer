@@ -1,0 +1,67 @@
+{
+  "fleet": {
+    "STAR": {
+      "description": "Ford Mustang",
+      "count": 1
+    },
+    "MVAR": {
+      "description": "Dodge Caravan",
+      "count": 2
+    },
+    "UFAR": {
+      "description": "Chevrolet Tahoe",
+      "count": 3
+    }
+  },
+
+  "onRent": [
+    {
+      "vehicle": {
+        "SIPP": "STAR",
+        "description": "Ford Mustang"
+      },
+      "returnDate": "10/2/2025 5:00 PM"
+    },
+    {
+      "vehicle": {
+        "SIPP": "MVAR",
+        "description": "Dodge Caravan"
+      },
+      "returnDate": "7/10/2025 4:30 PM"
+    },
+    {
+      "vehicle": {
+        "SIPP": "UFAR",
+        "description": "Chevrolet Tahoe"
+      },
+      "returnDate": "10/1/2025 6:30 PM"
+    }
+  ],
+
+  "acceptedBookings": [
+    {
+      "pickupDateTime": "28/Sep 6:00 PM",
+      "rentalDuration": "5 Days",
+      "vehicle": {
+        "SIPP": "STAR",
+        "description": "Ford Mustang"
+      }
+    },
+    {
+      "pickupDateTime": "28/Sep 6:00 PM",
+      "rentalDuration": "4 Days",
+      "vehicle": {
+        "SIPP": "STAR",
+        "description": "Ford Mustang"
+      }
+    },
+    {
+      "pickupDateTime": "30/Sep 4:30 PM",
+      "rentalDuration": "5 Days",
+      "vehicle": {
+        "SIPP": "STAR",
+        "description": "Ford Mustang"
+      }
+    }
+  ]
+}

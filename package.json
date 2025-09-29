@@ -1,0 +1,17 @@
+{
+  "name": "fleet-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze availability of cars (based on total fleet, cars on rent, and accepted reservations).",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js",
+    "main": "node main.js"
+  },
+  "author": "Ruzeen Rezvie",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
