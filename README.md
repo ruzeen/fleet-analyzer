@@ -36,4 +36,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This project is licensed under the MIT License. Do whatever you want with it.
+MIT License. Do whatever you want with it.
