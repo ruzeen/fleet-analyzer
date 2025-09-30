@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "nodemon app.js",
-    "main": "node main.js"
+    "main": "node main.js",
+    "test": "node ./test/test.js"
   },
   "author": "Ruzeen Rezvie",
   "license": "MIT",
