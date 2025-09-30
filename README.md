@@ -1,6 +1,6 @@
 # Fleet Analyzer
 
-Fleet Analyzer is a Node.js application designed to analyze the availability of cars in a rental fleet. It takes into account the total fleet, cars currently on rent, and accepted reservations to determine availability and potential overbooking situations.
+Fleet Analyzer is a simple application designed to analyze the availability of cars in a rental fleet. It takes into account the total fleet, cars currently on rent, and accepted reservations to determine availability and potential overbooking situations.
 
 ## Features
 
@@ -21,6 +21,14 @@ Fleet Analyzer is a Node.js application designed to analyze the availability of 
    ```bash
    npm install
    ```
+
+## Test Application
+
+Run and test the application:
+
+```bash
+npm run test
+```
 
 ## Contributing
 
